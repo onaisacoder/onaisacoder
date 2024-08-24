@@ -1,11 +1,12 @@
-## Hi there 👋
-
+## Hi, I'm Ona!👋
+I am a South African Computer Science student at the University of Stellenbosch with a passion for life-long learning and skill development. 
+I aspire to create websites and applications which will positively impact the lives of others. 
 <!--
 **onaisacoder/onaisacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on building my programming skills in Python, JavaScript and other programming languages! 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
