@@ -3,7 +3,8 @@
 I am a South African Computer Science student at the University of Stellenbosch with a passion for life-long learning and skill development. 
 I aspire to create websites and applications which will positively impact the lives of others. 
 🔭 I’m currently working on building my programming skills in Python, JavaScript and other programming languages! 
-### Tech Stack: 
+###    Tech Stack: 
+Python / Java / JS / GIT / GITHUB
 
 ### ⚡ Fun fact: 
 I am a Linguistics nerd and bookworm too! I love learning about new languages, and also about how they were created and how they've evolved over time! I am a huge Potterhead, and my favourite authors are John Green and Malorie Blackman. 📖
