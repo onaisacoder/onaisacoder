@@ -1,4 +1,4 @@
-## Hi, I'm Ona! 🇿🇦
+## Hi, I'm Ona! Welcome to my GitHub :)
 ### About me: 
 I'm a CS/Genetics major from South Africa! 
 
