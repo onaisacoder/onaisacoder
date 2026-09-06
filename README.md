@@ -1,14 +1,12 @@
 ## Hi, I'm Ona! 🇿🇦
-### 👩‍💻 About me: 
-I am a South African Computer Science student at the University of Stellenbosch with a passion for life-long learning and skill development. 
-I aspire to create websites and applications which will positively impact the lives of others. 
-🔭 I’m currently working on building my programming skills in Python, JavaScript and other programming languages! 
+### About me: 
+I'm a CS/Genetics major from South Africa! 
+
 ###    Tech Stack: 
-Python / Java / JS / GIT / GITHUB
+Python / Java / C / HTML / CSS / REACTJS
 
 ### ⚡ Fun fact: 
-I am a Linguistics nerd and bookworm too! I love learning about new languages, and also about how they were created and how they've evolved over time! I am a huge Potterhead, and my favourite authors are John Green and Malorie Blackman. 📖
-
+I love reading and learning new languages! 
 <!--
 
 **onaisacoder/onaisacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
