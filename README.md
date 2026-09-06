@@ -5,7 +5,7 @@ I'm a CS/Genetics major from South Africa!
 ###    Tech Stack: 
 Python / Java / C / HTML / CSS / REACTJS
 
-### ⚡ Fun fact: 
+###  Fun fact: 
 I love reading and learning new languages! 
 <!--
 
